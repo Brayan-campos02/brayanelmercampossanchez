@@ -1,0 +1,122 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body {
+    background:url(imagen5.jpg);
+
+}
+
+header{
+    background: url(fondo3.jpg);
+    height: 850px;
+    margin: 0%;
+    padding: 0%;
+    color: white;
+    text-align: center;
+    padding-top: 160px;
+}
+
+h1{
+    font-size: 40px;
+    padding: 10px;
+    padding-top: 50px;
+}
+
+h2{
+    padding: 40px;
+    font-size: 30px;
+  
+}
+
+.botones a{
+    padding-top: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+
+.contenido{
+    color:black;
+    width: 850px;
+    margin: 0px auto;
+    padding-top: 20px;
+    text-align: center;
+    
+
+}
+
+h3{
+    font-size: 33px;
+    color: rgb(50, 50, 114);
+}
+p{
+    font-size: 20px;
+}
+
+#top{
+    background: black;
+}
+
+.Acercausil{
+    border-bottom: 1px solid black;
+}
+.Acercausil ul li a{
+    color:rgb(3, 75, 3);
+}
+.Acercausil li{
+    list-style: none;
+}
+.Acercausil ul{
+    padding-top: 10px;
+    font-size: 23px;
+}
+.Acercausil img{
+    padding-top: 20px;
+}
+.Acercausil p{
+    padding-top: 20px;
+    font-size: 22px;
+}
+h5{
+    font-size: 33px;
+    color: rgb(50, 50, 114);
+    padding-top: 17px;
+}
+
+.Acercaicc{
+    border-bottom: 1px solid black;
+}
+.Acercaicc p{
+    font-size: 22px;
+    padding-top: 20px;
+}
+.Acercaicc img{
+    padding-top: 20px;
+}
+
+#Acercademi{
+    padding-top: 20px;
+    font-size: 33px;
+    color: rgb(50, 50, 114);
+    
+}
+.Acercami img{
+    padding-top: 20px;
+}
+.Acercami p{
+    font-size: 22px;
+    padding-top: 20px;
+}
+.Acercami ul{
+    font-size: 22px;
+    padding-top: 20px;
+}
+.Acercami ul{
+    margin-bottom: 20px;
+}
+.Acercami li{
+    list-style: none;
+}
